@@ -1,0 +1,6 @@
+.*
+node_modules
+
+## White list
+!.editorconfig
+!.gitignore

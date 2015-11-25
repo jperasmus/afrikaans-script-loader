@@ -1,0 +1,27 @@
+{
+  "name": "afrikaans-script-loader",
+  "version": "0.0.1",
+  "description": "afrikaans javascript loader for webpack",
+  "main": "index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "webpack": "*"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jperasmus/afrikaans-script-loader"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "afrikaans",
+    "javascript",
+    "transpiler",
+    "module"
+  ],
+  "author": "JP Erasmus <jperasmus11@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/jperasmus/afrikaans-script-loader"
+}
