@@ -62,7 +62,7 @@ npm install afrikaans-script-loader --save-dev
 module: {
   loaders: [
     {
-      test: /\.js?$/,
+      test: /\.js$/,
       exclude: /(node_modules|bower_components)/,
       loader: 'afrikaans-script'
     }
